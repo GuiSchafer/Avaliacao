@@ -1,0 +1,17 @@
+BASE DE CONHECIMENTO
+
+- Classificação (Cliente) -> [ Z-Score, tree_decision ]                     {ERP - Interno}
+- Probabilidade (pais)                                                      {ERP - Interno}
+- Clusterização (pais) -> KMean                                             {ERP - Interno}
+- KNN (K-Neighbour Nearest) (pais, produto, subcategoria) -> Associação     {PCA -> E-commerce}
+- Regressão (Mercado/Regiao)                                                {BI}
+- Anomalias (pais)                                                          {BI}
+
+===================================================================================================
+
+- A princípio, o que será requisito para a avaliação:
+
+-> RFM 
+-> Cluster
+-> Mapa 
+-> Probabilidade
